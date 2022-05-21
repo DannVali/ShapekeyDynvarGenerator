@@ -4,7 +4,7 @@ A NeosVR plugin to generate DynamicField components for all blendshapes on an ob
 How to install:
 1. Go to your local NeosVR folder (in steamapps/common) if using the steam version
 2. Go into the Libraries folder
-3. Copy ShapekeyDynvarGenerator.dll into the Libraries folder
+3. Copy [ShapekeyDynvarGenerator.dll](https://github.com/DannVali/ShapekeyDynvarGenerator/releases) into the Libraries folder
 4. Launch neos through the neos launcher and make sure the plugin is selected
 
 How to use:
